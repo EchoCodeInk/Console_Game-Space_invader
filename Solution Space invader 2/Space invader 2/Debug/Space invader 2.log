@@ -1,0 +1,17 @@
+﻿  Coord.cpp
+  Extraterrestre.cpp
+  ExtraterrestreAmeliore.cpp
+  Laser.cpp
+  LaserAmeliore.cpp
+  Martien.cpp
+  Menu.cpp
+  ObjetDeJeu.cpp
+  Partie.cpp
+c:\_mes_cours\portfolio 22203\console_game-space_invader\solution space invader 2\space invader 2\partie.cpp(181): warning C4553: '==': result of expression not used; did you intend '='?
+  RunProgramme.cpp
+  spaceMain.cpp
+  UIKit.cpp
+  Vaisseau.cpp
+  validations.cpp
+  Generating Code...
+  Space invader 2.vcxproj -> C:\_mes_cours\Portfolio 22203\Console_Game-Space_invader\Solution Space invader 2\Debug\Space invader 2.exe
