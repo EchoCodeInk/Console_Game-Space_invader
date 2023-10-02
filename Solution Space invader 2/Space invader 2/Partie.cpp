@@ -14,6 +14,7 @@
 #include <Windows.h>
 #include<iomanip>
 #include "ExtraterrestreAmeliore.h"
+#include <cstdio>
 
 /*
 	Vous pouvez modifier ce fichier.
