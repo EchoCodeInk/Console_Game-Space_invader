@@ -1,6 +1,6 @@
 # Space Invaders II
 
-![Game Screenshot](screenshot.png)
+![Game Screenshot](![image](https://github.com/EchoCodeInk/Console_Game-Space_invader/assets/143127630/64b63253-b7eb-4397-971f-3e20ebe1108d))
 
 Welcome to Space Invaders II, an exciting arcade game where you take on the role of Earth's savior, defending our planet against an invasion of extraterrestrial beings.
 
