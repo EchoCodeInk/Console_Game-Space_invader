@@ -53,7 +53,7 @@ To play Space Invaders II on your system, follow these steps:
 ## Contributors
 
 - [Evan Cholette](https://github.com/EchoCodeInk) - Lead Developer
-- [Teammate 1](https://github.com/BoussemousseT) - Developer
-- [Teammate 2](https://github.com/TonyDude007) - Developer
+- [Taoufik Boussemousse](https://github.com/BoussemousseT) - Developer
+- [Antoine Ouellet](https://github.com/TonyDude007) - Developer
 
 
